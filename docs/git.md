@@ -76,4 +76,9 @@ d、git remote add origin github项目的URL
 e、git fetch 拉取远程仓库的内容到本地
 f、git add -A .
 h、git commit -m "init"
-g、
+g、git pull origin master  合并
+  -- 如果报错fatal: Couldn't find remote ref master
+    -- 执行 git pull origin main
+  -- 报fatal: refusing to merge unrelated histories
+    -- 执行 git pull origin master --allow-unrelated-histories
+
