@@ -74,5 +74,6 @@ b、本地创建项目
 c、git init 初始化本地项目给git
 d、git remote add origin github项目的URL
 e、git fetch 拉取远程仓库的内容到本地
-f、合并内容
-h、提交至远程
+f、git add -A .
+h、git commit -m "init"
+g、
