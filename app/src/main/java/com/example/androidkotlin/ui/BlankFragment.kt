@@ -6,6 +6,7 @@ import com.example.androidkotlin.base.BaseViewModelFragment
 import com.example.androidkotlin.databinding.BlankFragmentBinding
 import kotlinx.android.synthetic.main.blank_fragment.view.*
 
+
 class BlankFragment : BaseViewModelFragment<BlankFragmentBinding,BlankViewModel>(){
 
     override fun initView(view: View) {
