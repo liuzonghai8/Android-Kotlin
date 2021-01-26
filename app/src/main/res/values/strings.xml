@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">AndroidKotlin</string>
+    <string name="title_tool">工具</string>
+    <string name="title_video">视频</string>
+    <string name="title_docs">文档</string>
+    <string name="title_me">我的</string>
+
 </resources>
